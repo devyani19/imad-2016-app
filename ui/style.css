@@ -20,3 +20,9 @@ body {
     height: 200px;
 }
 
+.center {
+            max-width =700pix
+            margin: 0 auto;
+            color: red;
+            font-family : Times New Roman;
+        }
